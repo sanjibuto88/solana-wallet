@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>SolWallet.Core</RootNamespace>
+    <AssemblyName>SolWallet.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
